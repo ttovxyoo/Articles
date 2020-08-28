@@ -1,0 +1,41 @@
+1 LOS ANGELES-Gears may seem like a purely human invention.
+2 And yet the basic interlocking mechanism found inside grandfather clocks and car steering systems has now turned up in the remarkably powerful legs of young planthopper insects.
+3 The discovery, published in Friday's edition of the journal Science, provides the first known example of working gears that evolved in a living being.
+4 'It's a wonderful example of the clever solutions that nature comes up with,' said Robert Full, a biomechanist at the University of California, Berkeley who was not involved in the study.
+5 'It was brilliant'. While examining flightless planthopper insects in the genus Issus, University of Cambridge neurobiologist Malcolm Burrows discovered that the young insects' legs had gear teeth that locked into place while jumping.
+6 'We weren't deliberately looking for it.
+7 Why would we?' said Burrows, who conducted the research with University of Bristol engineer Gregory Sutton.
+8 'There's been no description of gear wheels functioning in animals before'.
+9 Issus planthoppers make fleas and other jumping insects look like junior varsity pole-vaulters.
+10 The adult bugs can leap with an acceleration of roughly 500 Gs in a millisecond, Burrows said.
+11 An average human can withstand about 5 Gs of acceleration before passing out.
+12 To figure out what made these insects so springy, the researchers ventured outdoors to gather a few bugs, with a little help from the sharp eyes of Burrows' young grandson.
+13 Some of the planthoppers were adults, and some were nymphs.
+14 The pair used a high-speed camera to photograph the planthoppers while they jumped.
+15 That's when they spotted the gear teeth on the insides of the insects' equivalent of thighs.
+16 Each gear strip was about 350 to 400 micrometers long - about half as thick as a credit card - with about 10 to 12 teeth in each.
+17 The discovery was shocking. Burrows had been studying jumping insects for a long time, and he'd never seen anything like it.
+18 Other insects, like grasshoppers, use their legs to push their bodies straight up.
+19 But the planthoppers' legs move more like a breaststroke, splaying out to the sides while propelling the body upward.
+20 That method of locomotion can be tricky.
+21 If one leg fires first, the planthopper will end up spinning, like a one-armed breast-stroke swimmer.
+22 But sending a signal from the brain to coordinate both legs takes time and extra neural bandwidth.
+23 So the planthopper's body has an ingenious solution that keeps the legs in step without a thought.
+24 When one leg starts to jump, the gear teeth on that leg engage with the gear teeth on the other so they both push off at the same time.
+25 Using the gear method, the insects' legs can synchronize within 30 microseconds.
+26 If the insect had to think about synchronizing its legs, Burrows said, it would take one or two milliseconds to send a message from its brain to its muscles.
+27 In other words, the gear method is tens of times faster than a single bug thought.
+28 Oddly, only the nymphs have these gears, Burrows and Sutton discovered.
+29 The adults lose the gears when they're fully grown; apparently, they can generate enough friction between their strong, solid legs.
+30 But if this is such a handy engineering tool, why not keep using it into adulthood?
+31 Perhaps it's because of wear and tear, Burrows said.
+32 If you break a tooth on a gear in your car or your bike, you have to get it fixed.
+33 Nymphs don't have repair shops, but because they shed their bodies into progressively larger exoskeletons as they grow, they're constantly getting upgrades anyway.
+34 Once they're adults, stuck in their permanent bodies, they don't have that luxury.
+35 While humans have been doing pretty well with their man-made gears, the insect's design could still provide insight for engineers, Burrows said.
+36 For example, these gear teeth are asymmetrical rather than uniform.
+37 Because they need to work only in one direction on the insect, perhaps the odd shape maximizes the bang for their potential energy buck.
+38 There are other 'ornamental cogs' in nature, the authors wrote in Science, such as those on the shell of the cog wheel turtle Heosemys spinosa.
+39 Crocodile hearts also have a toothed cog valve that may help them stay under water for longer periods by redirecting blood flow to their most vital organs.
+40 In any case, the research shows it's rarely wise to underestimate evolution, the scientists said.
+41 'Any statement that you make like that, that something is uniquely human is just waiting to be disproven,' Full said.

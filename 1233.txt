@@ -1,0 +1,36 @@
+1 WASHINGTON - The Supreme Court ruled Thursday that naturally occurring human genes may not be patented, potentially opening up commercial and scientific terrain to more freewheeling exploration.
+2 In a unanimous decision that is a mixed bag for the multibillion-dollar pharmaceutical and biotechnology industries, the court distinguished between genes found in the human body and those created in the lab.
+3 'A naturally occurring DNA segment is a product of nature and not patent eligible merely because it has been isolated,' Justice Clarence Thomas wrote for the court.
+4 At the same time, Thomas and his fellow justices determined that so-called 'complementary DNA,' which is synthetic, is 'patent eligible because it is not naturally occurring'.
+5 The 18-page decision in the closely watched case rejects several patent claims filed by a Utah-based company called Myriad Genetics.
+6 Myriad obtained patents, and with them a profitable monopoly, on the exact location of two genes associated with a higher risk of developing breast or ovarian cancer.
+7 Individual scientists who felt constrained by Myriad's patents sued, along with a group called the Association for Molecular Pathology.
+8 'We are thrilled,' said American Civil Liberties Union attorney Sandra S. Park, who argued the case.
+9 'The question before the court was a simple one, but it had profound consequences'.
+10 The ruling Thursday means that competing firms now have a freer hand in developing cancer-testing tools that involve the genes for which Myriad held the patents.
+11 More broadly, Park said the ruling could call into question the validity of patents that have been issued for about 4,000 other human genes.
+12 'As a result of this, the cost of genetic testing should come down significantly,' said Dr. Harry Ostrer, a medical geneticist at the Albert Einstein College of Medicine who challenged Myriad's patents.
+13 'I think we will see a much more level playing field.
+14 It will drive down costs and improve quality'.
+15 Park added that the court's reasoning perhaps could be applied to challenges of patents that have been issued for non-human isolated genes as well.
+16 Myriad officials accentuated the positive in the court's decision, stressing how the court agreed that lab-synthesized genes, dubbed cDNA, still may be patented, as may the scientific methods used in isolating genes.
+17 'We believe the court appropriately upheld our claims on cDNA, and underscored the patent eligibility of our method claims, ensuring strong intellectual property protection for our (gene) test moving forward,' Peter D. Meldrum, Myriad's president and CEO, said in a statement.
+18 Meldrum added that 'more than 250,000 patients rely upon' the company's genetic testing.
+19 Myriad's general counsel, Richard M. Marsh, elaborated in an interview that the ruling wouldn't have any 'material impact on our operations' because of the company's reservoir of other patents and inventions.
+20 A gene is a segment of DNA. It defines physical traits, such as eye color and sex, and can influence whether an individual develops conditions such as obesity, diabetes and Alzheimer's disease.
+21 About 22,000 genes make up the human genome, the basis of human inheritance.
+22 Genes must be removed from the body and isolated in order to be studied and utilized.
+23 Scientists with Myriad, a company based in Salt Lake City that had revenues of $496 million last year, used mapping tools to identify the genes associated with mutations that predispose women to breast and ovarian cancers.
+24 Scientists called these the BRCA1 and BRCA2 genes.
+25 The average American woman has a roughly 12 percent lifetime risk of developing breast cancer.
+26 Women with BRCA mutations, though, face a cumulative risk of up to 85 percent.
+27 Actress Angelina Jolie, for instance, elected to have a double mastectomy recently after she tested positive for the BRCA genes.
+28 Myriad obtained a number of patents relating to the isolated BRCA genes.
+29 'Groundbreaking, innovative or even brilliant discovery does not by itself satisfy that (patent) inquiry,' Thomas said, adding that while 'Myriad found the location' of the genes, that discovery by itself didn't render the genes 'new compositions of matter' that were patent eligible.
+30 Myriad has been able to charge about $3,300 for its genetic-based tests for breast cancer, although the company notes that insurance covers most patients.
+31 Other scientists, meanwhile, have been limited in their ability to work with the genes.
+32 Intellectual property attorney Vernon Winters, who is with the San Francisco Bay Area offices of the Sidley Austin law firm, stressed that the court's decision is limited in that it doesn't disturb 'method claims for manipulating genes or DNA' or 'claims for new and specific applications for DNA sequences, as opposed to the isolated sequences themselves'.
+33 Barbara Rudolph, an intellectual property attorney in the Washington office of the Finnegan law firm, said in an interview that it was 'hard to predict' how the decision would play out for companies and inventors, though she suggested that it was 'a winner' for biotech firms that specialized in lab-synthesized cDNA, which remained patent eligible.
+34 Rudolph added that the court sought to balance whether patents serve as an incentive or an impediment to invention.
+35 Underscoring the scientific complications of the case, Justice Antonin Scalia issued a one-paragraph concurring opinion in which he noted the 'fine details of molecular biology' in the court's decision.
+36 'I am unable to affirm those details on my own knowledge or even my own belief,' Scalia said.

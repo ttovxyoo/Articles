@@ -1,0 +1,31 @@
+1 PHILADELPHIA – Solar panels generate electricity by absorbing sunlight, but that is only half the battle.
+2 Once electrons in the panel are energized, they must be channeled in the same direction – a process that typically requires a panel made with layers of two kinds of material.
+3 Not in the future, if a team of researchers from the University of Pennsylvania and Drexel University can help it.
+4 In a new study published online by the journal Nature, the scientists reported they had created a new class of ceramic material that could accomplish both tasks cheaply and efficiently.
+5 So far the group has created just tablet-size bits of the new ceramic, but members predict it can be used to make panels that are better at harvesting energy and less expensive than the silicon-based models that dominate the market.
+6 The authors say their new ceramic also would have an edge over 'thin-film' solar panels, which tend to contain materials that are rare, toxic, or both.
+7 The new material contains potassium, niobium, barium, and nickel, which are relatively abundant and environmentally benign.
+8 So is silicon, but it requires lots of processing and manufacturing to be used in solar panels.
+9 The authors say their combination of materials will be cheaper in the long run.
+10 'We've opened up a new category of ways of making a solar cell,' said Penn chemistry Professor Andrew M. Rappe, who supervised modeling and computation for the project.
+11 Solar power remains a small player on the nation's energy scene, accounting for just a quarter of 1 percent of energy consumed in 2012, according to the U.S. Energy Information Administration.
+12 The actual numbers are higher, according to the Solar Energy Industries Association, which says the government does not have complete data on rooftop panel installation.
+13 But by any measure, solar power generation has been climbing steadily, driven in part by government incentives.
+14 And for scientists, the sun remains a tantalizing source of untapped power.
+15 Materials that can channel the flow of electrons are described as having polarity, and have been known to science for decades.
+16 But they have not been used to make solar panels because they primarily absorb energy from ultraviolet light, not from the visible part of the spectrum.
+17 The Penn-Drexel team started with one of these polar materials, called potassium niobate, then used computer models to predict what other elements could be added so that it would absorb visible light.
+18 The eventual winners were barium, which replaces some of the potassium in the structure of the ceramic crystal, and nickel, which replaces some of the niobium.
+19 'The nickel is really doing the job,' Rappe said.
+20 'The barium's kind of along for the ride'.
+21 Other authors of the paper included research specialist Ilya Grinberg and materials science professor Peter K. Davies, both from Penn, and Jonathan E. Spanier, a Drexel associate professor of materials science and engineering.
+22 The manufacture of the material involved a multistep process of grinding and heating.
+23 By adding different amounts of barium and nickel, the scientists found they could tweak the material so that it could absorb varying wavelengths of visible light.
+24 In theory, this type of ceramic could realize efficiency above 50 percent, though a lot of work remains to be done, the authors said.
+25 Lane W. Martin, an assistant professor of materials science and engineering at the University of Illinois at Urbana-Champaign, agreed that the approach had potential.
+26 'It's a pretty promising first step in this realm,' said Martin, who was not involved with the research.
+27 Rappe said the research came about in part through Pennergy, an interdisciplinary program that provides funds for projects involving both engineers and representatives from the pure sciences at Penn, Drexel, and Temple University.
+28 Among other sources, the authors also were funded by Ben Franklin Technology Partners, a state-backed economic development program.
+29 Future research will involve actually making a solar 'cell,' complete with electrodes, yet Spanier was plenty excited by the small tablets.
+30 The Drexel researcher conducted tests revealing that the material had the desired properties.
+31 'It's a mixture of excitement and satisfaction and thrill,' he said.

@@ -1,0 +1,66 @@
+1 A New York City commuter train rounding a riverside curve derailed Sunday, killing four people and injuring more than 60 in a crash that threw passengers from the toppling cars and left a snaking chain of twisted wreckage just inches from the water.
+2 Some of the roughly 150 passengers on the early morning Metro-North train from Poughkeepsie to Manhattan were jolted from sleep around 7:20 a.m. to screams and the frightening sensation of their compartment rolling over on a bend in the Bronx where the Hudson and Harlem rivers meet.
+3 When the motion stopped, four or five of the seven cars had lurched off the rails.
+4 It was the latest accident in a troubled year for the nation's second-biggest commuter railroad, which had never experienced a passenger death in an accident in its 31-year-history.
+5 'Four people lost their lives today in the holiday season, right after Thanksgiving,' Gov.
+6 Andrew Cuomo said at a news conference.
+7 Eleven of the injured were believed to be critically injured and another six seriously hurt, according to the Fire Department.
+8 The train operator was among the injured, Cuomo said.
+9 The governor said the track did not appear to be faulty, leaving speed as a possible culprit for the crash.
+10 But he noted that the National Transportation Safety Board would determine what happened.
+11 The Federal Railroad Administration was also sending 10 investigators to the scene.
+12 Metropolitan Transportation Authority Chairman Thomas F. Prendergast said investigators would look at numerous factors, including the train, the track and signal system, the operators and speed.
+13 The speed limit on the curve is 30 mph, compared with 70 mph in the area approaching it, MTA spokeswoman Marjorie Anders said.
+14 The train's data recorders should be able to tell how fast it was traveling, she said.
+15 One passenger, Frank Tatulli, told WABC-TV that the train appeared to be going 'a lot faster' than usual as it approached the sharp curve near the Spuyten Duyvil station, which takes its name from a Dutch word for a local waterway, sometimes translated as 'Devil's whirlpool.'
+16 The train was about half full at the time of the crash, rail officials said, with some passengers likely heading to the city for holiday shopping.
+17 Joel Zaritsky was dozing as he traveled to a dental convention.
+18 'I woke up when the car started rolling several times.
+19 Then I saw the gravel coming at me, and I heard people screaming,' he told The Associated Press, holding his bloody right hand.
+20 'There was smoke everywhere and debris.
+21 People were thrown to the other side of the train.'
+22 Nearby residents awoke to a building-shaking boom.
+23 Angel Gonzalez was in bed in his high-rise apartment overlooking the rail curve when he heard the roar.
+24 'I thought it was a plane that crashed,' he said.
+25 Mike Gallo heard the same noise as he was walking his dog.
+26 He looked down at the tracks and 'knew it was a tragedy right away.
+27 I saw injured people climbing out of the train.'
+28 Within minutes, dozens of emergency crews arrived and carried passengers away on stretchers, some wearing neck braces.
+29 Others, bloodied and scratched, held ice packs to their heads.
+30 Firefighters shattered windows of the toppled train cars to reach passengers, and they used pneumatic jacks and air bags to make sure they uncovered any victims who might have been pinned by train seats or other objects.
+31 Police divers searched the waters to make sure no one had been thrown in.
+32 Other emergency crews scoured the surrounding woods.
+33 Federal investigators planned to turn the cars upright to be certain no one was trapped beneath.
+34 Three men and one woman were killed, the MTA said.
+35 Three of the dead were found outside the train, and one was found inside, authorities said.
+36 The victims' names had not yet been released.
+37 Edwin Valero was in an apartment building above the accident.
+38 At first, he said, he didn't notice that the train had flipped over.
+39 'I didn't realize it had been turned over until I saw a firefighter walking on the window,' he said.
+40 To Cuomo, 'it looked like a toy train set that was mangled by some super-powerful force,' the governor said in a phone interview with CNN.
+41 As deadly as the derailment was, the toll could have been far greater had it happened on a weekday, or had the lead car plunged into the water instead of coming to rest on its edge.
+42 'On a workday, fully occupied, it would have been a tremendous disaster,' New York City Fire Commissioner Salvatore Joseph Cassano told reporters at the scene.
+43 For decades, the National Transportation Safety Board has been urging railroads to install technology that can stop derailing caused by excessive speed.
+44 A rail-safety law passed by Congress in 2008 gave commuter and freight railroads until the end of 2015 to install the systems, known as positive train control.
+45 They use GPS, wireless radio and computers to monitor trains.
+46 Aimed at preventing human error — the cause of about 40 percent of train accidents — they can also prevent trains from colliding, entering tracks undergoing maintenance or going the wrong way because of a switching mistake.
+47 But the systems are expensive and complicated.
+48 Railroads and their allies in Congress are trying to push back the installation deadline another five to seven years.
+49 Metro-North is in the process of installing the technology.
+50 It now has what's called an 'automatic train control' signal system, which automatically applies the brakes if an engineer fails to respond to an alert that indicates the speed is excessive.
+51 Such systems can slow trains in some circumstances, but not bring them to a halt, said Grady Cothen, a former Federal Railroad Administration safety official.
+52 It's possible, but very unlikely, that the accident was caused by a brake failure, Cothen said.
+53 Trains rely upon an air brake system that automatically stops the train if the brakes suddenly lose air pressure, he said.
+54 If the brakes were gradually failing, the train engineer should have had plenty of warning in time to stop the train, he said.
+55 Amtrak Empire service was halted for hours between New York City and Albany but resumed Sunday afternoon, with some delays.
+56 Amtrak said its Northeast Corridor service between Boston and Washington was unaffected.
+57 It was not clear when service would resume on the affected part of Metro-North's Hudson line, which carries about 18,000 people on an average weekday morning.
+58 Westchester County Executive Rob Astorino said contingency plans were in the works for Monday morning rush hour, possibly using buses.
+59 Sunday's accident was the second passenger train derailment in six months for Metro-North.
+60 On May 17, an eastbound train derailed in Bridgeport, Conn., and was struck by a westbound train.
+61 The crash injured 73 passengers, two engineers and a conductor.
+62 Eleven days later, track foreman Robert Luden was struck and killed by a train in West Haven, Conn.
+63 In July, a freight train full of garbage derailed on the same Metro-North line near the site of Sunday's wreckage.
+64 'Safety is clearly a problem on this stretch of track,' state Sen. Jeff Klein, who represents the nearby area, said Sunday.
+65 Earlier this month, Metro-North's chief engineer, Robert Puciloski, told members of the NTSB investigating the May derailment and Luden's death that the railroad is 'behind in several areas,' including a five-year schedule of cyclical maintenance that had not been conducted in the area of the Bridgeport derailment since 2005.
+66 The NTSB issued an urgent recommendation to Metro-North that it use 'redundant protection,' such as a procedure known as 'shunting' in which crews attach a device to the rail in a work zone alerting the dispatcher to inform approaching trains to stop.

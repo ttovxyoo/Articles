@@ -1,0 +1,34 @@
+1 An ambitious effort to bring the Internet to billions of poor people is only the latest move by Facebook Inc.'s Mark Zuckerberg to carve out a high-profile role as a tech CEO who can wield influence over public issues.
+2 And while he's not the only one of his peers promoting the power of technology to change the world, the scale and ambition of Zuckerberg's industry alliance to promote global Internet access makes the 29-year-old CEO one of the most prominent advocates for Silicon Valley's unique blend of business and altruism.
+3 Still, critics scoffed Wednesday at what they viewed as self-interest wrapped in noble-sounding rhetoric that accompanied the announcement from Zuckerberg and his new Internet.org coalition.
+4 And it's not the first time his efforts have run into that criticism.
+5 Helping new populations get online is clearly in Facebook's interest, said futurist and longtime Silicon Valley observer Paul Saffo.
+6 But he said it also represents a trend in which, unlike the days when business moguls waited until they retired to become philanthropists, 'now we expect our entrepreneurs to be charitable activists'.
+7 Earlier this month, Tesla Motors Inc. CEO Elon Musk held a telephone press conference to promote his idea for the 'hyperloop,' a futuristic transportation system that he hopes someone else will build.
+8 Google Inc. CEO Larry Page, whose company is pursuing its own ideas for delivering cheap Internet service - including a flotilla of radio-equipped high-altitude balloons - spoke at his company's annual software conference in May about using software and data to solve world hunger and other vexing problems.
+9 'I think we're all here because we share a deep sense of optimism about the potential for technology to improve people's lives,' Page told conference-goers.
+10 While Page more often shuns the public spotlight, Musk and Zuckerberg have both learned to leverage their own celebrity.
+11 Zuckerberg drew worldwide attention to his new coalition by announcing it on his personal Facebook page Tuesday night and offering himself up for interviews with the New York Times and CNN.
+12 CEOs of other companies involved in the effort haven't been widely quoted on the project.
+13 Similarly, when Zuckerberg launched the advocacy group FWD.us earlier this year to lobby for immigration reform, including policies that help the tech industry, he announced it in a first-person essay in the Washington Post.
+14 Although a number of prominent tech executives and venture capitalists signed on to the FWD.us organization, it's widely viewed as Zuckerberg's group.
+15 As it stands now, the Internet.org alliance consists of Facebook and six companies that make mobile phones, smartphone processors and mobile software.
+16 They plan to collaborate on efforts to build lower-cost smartphones, make apps that use less data and create financial incentives for companies to provide telecommunication service in poor areas.
+17 While the alliance doesn't include any telecommunications providers or other Internet companies, one expert said the effort could help by lowering some of the cost hurdles that keep two-thirds of the world's population offline.
+18 'It's an incremental improvement on technology that's already proven,' said Richard Bennett at the Information Technology and Innovation Foundation.
+19 While a number of groups are working on Internet access, he added, the problem is so large that it will require a variety of solutions.
+20 Others were more skeptical about Zuckerberg's plan Wednesday.
+21 'The hard fact is that what is in Web companies' self-interest - getting more people using the Internet - also expands the reach of American surveillance,' tech commentator Alexis C. Madrigal warned in the Atlantic.
+22 Many commenters noted the financial interest that Facebook has in delivering ads to an expanding audience.
+23 'And that's really the point here: Don't pretend to be saints.
+24 We are not stupid,' Madrigal wrote, paraphrasing one Internet post.
+25 Zuckerberg also faced criticism after FWD.us aired television ads that supported legislators who backed immigration reform - in some cases by praising their stance on hard-right conservative issues and the controversial Keystone oil pipeline, which environmentalists oppose.
+26 'That was an extraordinarily bad idea,' Saffo said.
+27 But he added, 'I think there's a lot less risk' in the new effort.
+28 'You don't see anybody demonstrating against Internet access'.
+29 As one of the wealthiest and most well-known tech CEOs in the world, Zuckerberg has donated $600 million in cash and stock to New Jersey public schools and the Silicon Valley Community Foundation in the past three years.
+30 'With wealth and status come responsibility.
+31 And the earlier that he's been successful, the sooner the public expects him to step up,' Saffo said, adding that 'he's clearly still finding his way'.
+32 At a time when Facebook's growth rate is slowing in the developed world, Zuckerberg has acknowledged Facebook stands to benefit from putting the Internet within reach of more people around the world.
+33 Still, Zuckerberg argued in a position paper: 'The unfair economic reality is that those already on Facebook have way more money than the rest of the world combined, so it may not actually be profitable for us to serve the next few billion people for a very long time, if ever.
+34 But we believe everyone deserves to be connected'.

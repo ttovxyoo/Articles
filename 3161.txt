@@ -1,0 +1,17 @@
+1 Pedophiles have found a home on the Internet and exchange hundreds of pictures a week through anonymous conduits, a researcher said Monday.
+2 The statistics appeared to provide the first glimpse at the scope of the potentially illegal activity, which police fear can lure kids into sex. It came from a study by Mats Wiklund, a researcher at Stockholm University's Institute of Computer and System Science.
+3 During a seven-day period in late December and early January, Wiklund counted 5,651 messages or postings about child pornography in four 'bulletin boards.'
+4 Among the postings, about 800 were graphic pictures of adolescents engaged in sexual acts. He said at least eight of the pictures showed very young children, possibly ages 8-10.
+5 'The younger ones . are not being shown in the act, but they are being used as bait,' Wiklund said.
+6 The actual number of postings likely was higher. Wiklund surveyed just half the 'bulletin boards' dedicated to pornography and could not count private messages, he said.
+7 A few messages offer telephone numbers or other instructions for getting more pictures for a price, although by far most of the offerings were free, he said.
+8 The bulletin boards were listed in Usenet, a section of the global computer network reachable today by an estimated 24 million people, including children.
+9 The network operates largely without supervision, across national borders and often in a legal gray zone.
+10 'The Internet has become a channel of communication for pedophiles,' Wiklund said. 'From their point of view, they've found a green technology. You can be anonymous and still be reached.'
+11 In most countries the distribution of child pornography is illegal. U.S. police two years ago raided about 40 locations where people were exchanging child pornography by computer. Two Danes were convicted in 1993 of transmitting child pornography to an estimated 6,000 people worldwide.
+12 Authorities say pedophiles can make contact with children by computer, then try to lure them into a meeting.
+13 In his study, Wiklund said 85 percent of the messages about child pornography were in text-form only, either fantasy stories or tips on transmitting pictures.
+14 Wiklund said he could trace the message origins only as far as a large 'server' computer in Finland, one of several around the world set up privately to help Internet users remain anonymous.
+15 Like a powerful filter, the server can be programmed to receive data, strip off the return address and relay it to its destination anonymously in a matter of seconds.
+16 Finnish detective Sgt. Timo Laine said it was unclear whether the country's laws would apply to 'electronic smuggling' by computer. He said did not know whether police would take action against the computer owner in Finland.
+17 'We've never had this kind of case before,' Laine said. 'If I transmit this information through the Internet, is it considered smuggling?'

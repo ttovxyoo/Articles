@@ -1,0 +1,38 @@
+1 LOS ANGELES - Pity the poor male common Mormon swallowtail butterfly.
+2 His potential female consorts bear four different color patterns, only one of which looks familiar.
+3 The rest look suspiciously like other species, and toxic ones at that.
+4 That deception is news for 75 percent of the Papilio polytes ladies, which can avoid predators that have learned not to dine on the real toxic butterfly.
+5 They're a classic example of 'parasitic' mimicry, a strictly one-sided affair that benefits only the imitator, but leaves the male and the masculine-colored female vulnerable.
+6 Biologists have studied mimicry cases since the dawn of Charles Darwin's theory of evolution, because they provide a field test for the process of natural selection.
+7 But precisely how mimicry becomes restricted to females of a species remained a mystery well into the modern era of genetics.
+8 Scientists suspected the handiwork of a 'super gene'.
+9 'They figured that this is a cluster of tightly linked genes, and each individual gene was doing some sub-set of that color pattern, but they were so close together that they would all be inherited as a single unit,' said University of Chicago evolutionary biologist Marcus R. Kronforst, who has studied butterflies for decades.
+10 'That's where the name ‘super gene' came from.
+11 They just couldn't imagine that a single gene could do all this'.
+12 Researchers had found evidence of a unified gene cluster in one butterfly species.
+13 So Kronforst sought out the super gene of the Mormon swallowtail by mating butterflies of different wing patterns and mapping genes and gene expression of some 500 offspring.
+14 'We essentially expected to see the same thing, that there would be a cluster of very tightly linked genes,' Kronforst said.
+15 'But that's not what we found. In this butterfly, in this one species at least, it is just one gene.
+16 And it's doublesex. That's the name of the gene'.
+17 Doublesex happens to be the signaling gene that selectively drives the sexual divide in certain cells - though it is not the one that actually determines sex for the organism.
+18 'It's not on the sex chromosomes,' said Kronforst, who published his research team's findings online Wednesday in the journal Nature.
+19 'It reads a message from the sex chromosomes and then it forms two different types of proteins.
+20 There's a male type of protein and a female type of protein, and that's what tells the other cells in the body: you are male and you are female'.
+21 When he looked more closely at the mimetic females, Kronforst found that doublesex was engaged in some clever shuffling and gymnastics - it had about 1,000 mutations of its base pairs, and it held onto them the same way super genes locked up groups of mimicry genes: by inverting itself on the genome, preventing recombination of base pairs that ultimately would clean house.
+22 'It basically locks all of the mutations into one unit so they can't recombine,' Kronforst said.
+23 Exactly what mutations may be responsible for which colors remains a mystery that Kronforst plans to explore.
+24 Many of the changes among the four base pair building blocks of DNA don't do much.
+25 But a few seem to alter the proteins produced by genes.
+26 More broad questions remain too. 'If mimicry is helping these females survive, why on Earth aren't the males getting the same advantage?' Kronforst said.
+27 'We simply do not understand the answer to that question'.
+28 And how does the non-mimicking female pattern survive?
+29 'If she really was that bad off, that copy of the gene would simply disappear from the population,' Kronforst said.
+30 'The individuals that were mimetic would do so much better that she would just disappear.
+31 But that pattern hangs on. There's also something that's keeping the males in the non-mimetic pattern that we still don't understand'.
+32 Kronforst believes that counterbalancing selection may be at play - some advantageous trait is paired with the seemingly maladaptive one, and both are conserved.
+33 (In humans, that counterbalancing arrangement pairs sickle cell with malaria resistance.)
+34 'Basically what the butterflies have done is they have grabbed this mechanism that they already use to tell males from females and they're using it again to tell females that you'll like A, B, C or D,' Kronforst said.
+35 Kronforst wants to find out how the gene operates in other species that have similar male-female mimicry differences.
+36 What other characteristics might it drive?
+37 Does it change flight patterns as well?
+38 'It's possible that this gene is doing lots of other stuff,' Kronforst said.

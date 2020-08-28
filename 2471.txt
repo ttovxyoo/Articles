@@ -1,0 +1,46 @@
+1 In what may be a revolution in experiencing music, 19-year-old Russian pianist Osip Nikiforov is recording Chopin's Etude Op.
+2 10, No. 1, without capturing any of its sound.
+3 Instead, a sensor-equipped piano is recording the 'data' of his performance, the mechanical movements when keys and foot pedals are pressed.
+4 Playing a piano generates thousands of data points.
+5 And when turned into digital ones and zeros, that data can be stored, transmitted on the Internet and even precisely replayed by another similarly equipped piano.
+6 Nikiforov plays a Yamaha Corp. Disklavier owned by Stella Sick, a music professor at Hamline University in St. Paul, Minn. 'These pianos are fantastic teaching tools,' said Nikiforov.
+7 'You can correct things based on just listening to yourself.
+8 While you could do that with any recording, this one is even closer and more precise'.
+9 Sick says Nikiforov could use the piano to audition for another music school, saving travel and other costs.
+10 To promote Disklaviers, which cost $40,000 to $240,000, Yamaha has simplified Internet submission of recorded auditions.
+11 Last year, the company created a cloud storage website that allowed Disklavier performances to be shared among 18 U.S. universities and 28 private audition sites.
+12 George Litterst, a Massachusetts pianist and Yamaha consultant, said the network is expected to grow this year to 50 universities and 40 to 50 audition sites.
+13 Nikiforov is already a beneficiary of Internet auditions.
+14 At age 13, he sent a recording from a similar Disklavier in Moscow to audition for an international music competition based in Minnesota.
+15 He won third place, and the experience brought him there to study.
+16 Sick, also born in Russia, has a music doctorate from the University of Minnesota.
+17 But her teaching career has been altered by the technology.
+18 'In addition to performing, I liked getting under the piano with the Yamaha technical guys to find out what they were doing, and they explained things to me,' she said.
+19 She also discovered that by listening to the Disklavier's precise playback and watching the accompanying video of the player's movements, she could help students correct their mistakes.
+20 Sick calls it 'reverse-engineering the performance,' a technical term that might make some liberal arts fans cringe.
+21 But she shrugs it off. 'My friends are both technicians and musicians, so I live in both worlds'.
+22 As a result, Sick is a part-time consultant for Yamaha, and recently helped demonstrate the Disklavier for the music department staff at St. Olaf College in Northfield, Minn., which is wrestling with a decision on whether to use it as a way to audition prospective music students.
+23 'We haven't done auditions by Disklavier yet, and we're looking into whether that would be a good option for us,' said Kent McWilliams, a St. Olaf music professor who has used older, pre-Internet models of the Disklavier for classroom piano teaching.
+24 Although Disklaviers first became available in the U.S. in 1987, when they recorded piano data on floppy disks, they are getting another look from university music teachers now that they are Internet-capable and require only modest Internet speeds of 2 million to 4 million bits per second for both uploads and downloads.
+25 The Disklavier is a conventional piano that has been wired with extremely precise sensors to measure the movement of its mechanical parts.
+26 For example, when a piano key is struck, it causes a hammer to strike a piano string.
+27 A Yamaha sensor can measure and record the velocity of that hammer at 1,023 different increments, and store the result as computer data.
+28 When that data is used to reproduce that hammer speed on another Disklavier, the sound produced is virtually identical to that of the original piano.
+29 And, aside from the classroom teaching benefits, universities wonder if remote auditions will bring them a more diverse group of students.
+30 'Diversity of applicants is what schools ask us about,' Litterst said.
+31 'The more competitive schools want students auditioning from Asia and Europe.
+32 The music department chair at Wayne State College in Nebraska recently listened to a remote audition from a high school junior who lives in the Aleutian Islands (in Alaska)'.
+33 That's part of the discussion at St. Olaf.
+34 'If somebody in China wanted to audition for St. Olaf, we could arrange for them to do the audition electronically, which would be much more cost-effective for the student,' McWilliams said.
+35 'But we already draw students from other parts of the country and the world.'' Besides, he added: 'We like to have students come to campus so we get a good sense of them, and they of us'.
+36 The University of Minnesota, which just purchased its first Disklavier, sees it as a valuable teaching tool whose potential has barely been scratched, said Alexander Braginsky, a professor of piano at the UM School of Music.
+37 Initially, it will be used to receive audition recordings for the 2015 International e-Piano Junior Competition to be held at UM, and for teaching.
+38 'When I play back a Disklavier recording, I can slow it down 50 percent or speed it up 25 percent without changing the key it's being played in,' Braginsky said.
+39 'That helps piano students hear what I hear.
+40 The playback usually brings a whole lot of surprises'.
+41 But that's just the beginning, he said.
+42 'I have used one of these Disklaviers to do remote piano lessons between Minneapolis and New York, and between New York and Tokyo,' he said.
+43 'The students enjoy it very much. I think the uses for music education are yet to be fully explored'.
+44 The rising popularity of Internet-enabled pianos makes it likely that Yamaha will face increased competition.
+45 For example, Massachusetts-based Steinway offers pianos with digital playback capability.
+46 'It's clear that this is a concept whose time has come,' Litterst said.

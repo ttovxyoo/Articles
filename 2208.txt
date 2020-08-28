@@ -1,0 +1,28 @@
+1 A nickname for measures to stop the market from plunging too far too fast.
+2 Several moves were taken following the October 1987 crash to coordinate -- and sometimes deliberately disconnect -- the stock and futures markets in times of heightened volatility.
+3 On the Big Board, a 'side car' is put into effect when the S&P futures rise or fall 12 points.
+4 The side car routes program trades into a special computer file that scans for imbalances of buy and sell orders.
+5 On the Chicago Mercantile Exchange, S&P 500 futures are not allowed to fall further than 12 points from the previous day's close for half an hour.
+6 If, when trading resumes, the S&P futures fall 30 points from the previous day's close, a one-hour trading halt takes effect.
+7 Also, the reforms allow the Big Board to halt trading for one hour if the Dow Jones Industrial Average falls 250 points, and for two more hours if the Dow slides an additional 150 points on the same day.
+8 DOT System -- The 'Designated Order Turnaround' System was launched by the New York Stock Exchange in March 1976, to offer automatic, high-speed order processing.
+9 A faster version, the SuperDot, was launched in 1984.
+10 Used by program traders and others to zip orders into the exchange, SuperDot handles about 80% of all orders entered at the exchange.
+11 Futures Contracts -- Obligations to buy (for those who have purchased a contract) or deliver (for those who sold one) a quantity of the underlying commodity or financial instrument at the agreed-upon price by a certain date.
+12 Most contracts are simply nullified by an opposite trade before they come due.
+13 Indexing -- Many investors, mainly institutions, follow an investment strategy of buying and holding a mix of stocks to match the performance of a broad stock-market barometer such as the S&P 500.
+14 Many institutional index funds are active program traders, swapping their stocks for futures when profitable to do so.
+15 Program trading -- A wide range of computer-assisted portfolio trading strategies involving the simultaneous purchase or sale of 15 or more stocks.
+16 Quant -- Generally, any Wall Street analyst who employs quantitive research techniques.
+17 The newest breed, also called 'rocket scientists' because of their backgrounds in physics and mathematics, devise the complex hedging and trading strategies that are popularly known as program trading.
+18 Stock-index arbitrage -- Buying or selling baskets of stocks while at the same time executing offsetting trades in stock-index futures or options.
+19 Traders profit by trying to capture fleeting price discrepancies between stocks and the index futures or options.
+20 If stocks are temporarily 'cheaper' than futures, for example, an arbitrager will buy stocks and sell futures.
+21 Stock-index futures -- Contracts to buy or sell the cash value of a stock index by a certain date.
+22 The cash value is determined by multiplying the index number by a specified amount.
+23 The most common program-trading vehicles are futures contracts on Standard & poor's 500-stock index (traded on the Chicago Mercantile Exchange); the Major Market Index, a 20-stock index that mimics the Dow Jones Industrial Average (traded on the chicago Board of Trade); and the S&P 100 options (traded on the Chicago Board Options Exchange, and based on 100 stocks selected from the S&P 500).
+24 Stock-index options -- Options give holders the right, but not the obligation, to buy (a call) or sell (a put) a specified amount of an underlying investment by a certin date at a preset price, known as the strike price.
+25 For stock indexes, the underlying investment may be a stock-index futures contract or the cash value of a stock index.
+26 For example, there are options on the S&P 500 futures contract and on the S&P 100 index.
+27 Uptick -- An expression signifying that a transaction in a listed security occurred at a higher price than the previous transaction in that security.
+28 (See related story: 'Balance of Power: Program-Trading War Masks Deeper Battle For Market Supremacy --- `Old Guard' Seizes Offensive, But Rivals Are Bigger, Richer and High-Tech --- Civil War at the Big Board' -- WSJ Nov. 2, 1989)

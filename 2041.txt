@@ -1,0 +1,40 @@
+1 For students working in a miniature factory at the University of Missouri-Rolla, the future of American business is now.
+2 'When our students go into industry, they will have state-of-the-art knowledge' that will affect decisions about expanding the role of robots and automated machines in the workplace, said Sema Alptekin, designer of the futuristic business laboratory.
+3 Ms. Alptekin is a mechanical and industrial engineer who directs the university's computer-integrated manufacturing and packaging laboratory.
+4 The lab, established two years ago at a cost of $120,000, is the only project of its kind in the state, and one of the more advanced such programs in the country.
+5 Tom Akas of the Society of Manufacturing Engineers said Ms. Alptekin has created 'a model for similar laboratories .
+6 Students can see how the factory of the future operates.'
+7 The Society of Manufacturing Engineers has recognized Ms. Alptekin as an Outstanding Young Manufacturing Engineer.
+8 In her lab, a conveyer belt at waist level carries parts from storage shelves to a robot that dominates the room like a silent, 4-foot metal sentry.
+9 The robot is a V-shaped, jointed arm on a pivoting base.
+10 The arm can be fitted to allow it to grasp, lift and turn objects of differing sizes to suit a variety of tasks.
+11 The robot then swivels to place parts in position at the automated lathe or milling machine.
+12 The entire factory would fit inside a basketball half-court.
+13 The machinery is of the type used to make small parts in metal cutting shops, Ms. Alptekin said.
+14 Students learn to program a computer and automated machines linked to it in a complete manufacturing operation - retrieving raw materials from the storage shelf unit, which can be programmed to supply appropriate parts from its inventory; lifting and placing the parts in position with the robot's arm; and shaping parts into finished products at the lathe.
+15 Students using the lab have designed and produced engraved key chains and intricate mazes and puzzles out of plastic and plexiglass.
+16 But the product is less important than the process.
+17 Ms. Alptekin said former students have entered fields as disparate as aviation and financial consulting.
+18 In the factory of the future, according to the university's model, human chatter will be replaced by the click-clack of machines.
+19 'Ours is quite unique, it's totally integrated,' Ms. Alptekin said, referring to programming that allows components such as the automated storage system to 'talk to' the computer that controls the manufacturing process, informing it about the availability of parts.
+20 Ms. Alptekin said it is this aspect that sets the lab apart even from industries where robots and automated machines have become almost commonplace.
+21 There, she said, robots perform specific tasks in 'islands of automation,' but human workers remain responsible for keeping inventory and coordinating different aspects of the production line.
+22 Ms. Alptekin said automation is widespread in the automobile industry, but she would like to see it expanded.
+23 'It should be used in any industry,' she said.
+24 'It's difficult to justify economically, but if quality is the concern, then it can be easily justified.
+25 'At least our students will be aware of the enhancements and developments in this area, and when they make decisions as engineers and managers, they will take this into consideration,' she said.
+26 A master's candidate analyzed the existing system with an eye to altering it to create a new product.
+27 Ms. Alptekin said the student identified what new production components were necessary and determined how they could be integrated into the system.
+28 A doctoral candidate is developing computer software that will allow the system to diagnose itself.
+29 The system could be programmed to recognize when a component is not working, and then decide to switch to manufacturing a product that does not involve the disabled component, much as human managers would react.
+30 Graduate student Bob Borchelt said the equipment he is using is on the cutting edge of manufacturing.
+31 'Truthfully, I can't say that I was expecting this level of expertise,' he said.
+32 'I know that our lab is one of the best of its kind in an educational institution.'
+33 The lab, like the entire engineering management program, calls on computing, mechanical, electrical and chemical skills - and teamwork.
+34 'For us, for managers, the entire system is important,' Ms. Alptekin said.
+35 Ms. Alptekin said she is continually fine-tuning the lab.
+36 She now is considering purchasing a robot with vision sophisticated enough to act as an inspector.
+37 The university spent $30,000 to upgrade lab equipment in 1987.
+38 An estimated $60,000 to $70,000 was earmarked in 1988. International Business Machines Corp. recently pledged $1.2 million in computer equipment and software to the university as part of an IBM program to aid 48 college-based robotics labs across the country.
+39 'Studies show that there's a severe national shortage of instructional materials in this growing and critical area,' said Andy Russell, a spokesman for IBM.
+40 'IBM will benefit because we will be helping to train the (computer-integrated manufacturing) workers and decision makers of today and tomorrow.'
